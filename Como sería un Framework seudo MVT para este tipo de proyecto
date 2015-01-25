@@ -1,0 +1,64 @@
+
+
+                                    Como sería un Framework seudo MVT para este tipo de proyecto
+
+
+
+I.Pensando desde django para circulandia y también desde circulandia para django. 
+
+
+II.Circulandia cómo narrativa general, mucho más allá de la literatura
+
+
+III.La lógica cómo principio organizador de toda la información del framework, o más bien cómo hilo conductor para no perderse en la complejidad del framework
+
+
+
+
+1. En base a los principios constitutivos crear instancias particulares u  objetos de estas generalidades. Estos principios constitutivos serían los modelos 
+
+En este caso particular, los principios constitutivos no están pensados para ser modelos generales, habría que "ordenarlos" un poco más, perdiendo tal vez algunas
+
+ aristas creativas muy importantes. Estos objetos podrían ser personajes, pero también escenarios u otros tipos de objeto narrativo
+
+
+
+2. Considerar las diversas posibilidades de creación , agrupación y consultas de estas instancias (queries) de los diferentes tipos de objetos, preparando el material para las "vistas evolutivas"
+
+
+3. Considerar, hipotetizar y testear de diferentes maneras la subjetividad del usuario-final o bien lector
+
+
+4. Definir el sentido considerado cómo dirección  que conduce hacia lo que se quiere lograr finalmente del usuario-lector. Tener en cuenta ciertas consideraciones
+
+ ética a la hora de diagramar este punto sumamente central
+
+
+
+5. Cada vista renderizará los objetos agrupados de diferentes maneras (queries) con la template que se le hará al usuario para ir conduciéndolo al objetivo final
+
+
+
+
+
+
+
+6. La template es la presentación diseñada para el usuario, que dependerá del tipo de soporte narrativo usado, teniendo que conjuntos de objetos hay que
+
+ mostrar o resaltar de diferentes maneras, para ir llendo paso a paso por el sentido previamente definido para ir hacia el objetivo final
+
+
+
+
+7. las forms, que siguen al modelo, son las diferentes formas que tiene el usuario de interactuar con la narrativa, mediante contrapartes reflejo concretas de cada
+
+ parte del modelo...¿que posibles formas de narrativa son posibles desde aquí?
+
+
+
+8.Cómo entra el testing en uno u otro lado? Bueno, es algo que falta pensar y probar bastante todavía, aunque para el caso de circulandia, al no tener un lenguaje 
+
+ejecutable, no sería posible hacer un paralelismo.....salvo que se logrará hacer de esta un lenguaje ejecutable, dado su nivel de abstracción. 
+
+
+
