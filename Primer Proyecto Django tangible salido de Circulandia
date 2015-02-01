@@ -1,0 +1,57 @@
+                                              
+                                                 Primer Proyecto Django tangible salido de Circulandia
+
+
+
+ Por el contrario a "Como seria un framework para Circulandia":
+
+ Supon que tienes un proyecto bastante diferente o bien no tienes una vocación de sintesis- expansión..... y/o bien..      
+
+ Supon que no queres perderte nada de la primer lluvia de ideas y que tienes algunos colaboradores para desarrollarla.....y/ o bien..
+
+ Supon que es algo a largo plazo.... y/o bien...
+
+ Supon que eres muy innovador y quieres experimentar hacer pedazos la sacrosanta linealidad de la escritura........y/o bien..
+
+ Supon que quieres experimentar con nuevas formas de narrativa en el siglo XXI  
+
+
+Entonces, que se podría hacer?.......Un framework basado en vistas virtuales, colaborativo y también recombinable
+
+
+Cómo tomaria forma en un proyecto Django?
+
+Hay varias posibilidades claro está, pero en principio probaré con esta:
+
+
+Un escritor en jefe principal con permisos de superusuario
+
+Este podrá crear diferentes hilos narrativos y podrá deshilacharlos entre varias posibilidades
+
+Además podrá poner consignas en cada hilo a sus asistentes tipo: lo que no puede variar, lo que si puede variar, extensión permitida y/o algunos tags guias
+
+Estos colaboradores comentaran de esta manera cada hilo del Escritor principal, ayudando al desarrollo de este hilo de una manera más o menos específica
+
+Cada combinación de sucesiones hilo-comentario formará una vista virtual
+
+Estas vistas virtuales permitiran evaluar los múltiples desarrollos posibles, pudiendo luego elegir las más adecuadas a ciertos fines y todos los
+
+insospechados usos que podrían emerger. Estas vistas virtuales son bastante más difíciles de ver en un libro de papel
+
+Opcionalmente, estarían los lectores que podrían votar por todas o algunas vistas virtuales permitiendo así, nuevas posibilidades cómo el 
+
+crowdfunding, de una manera posiblemente sistemática y también por ello mejorable
+
+
+Además, con un acertado tagueo de las vistas virtuales, los hilos y los comments, podrían estos recombinarse de otras maneras insospechadas, creando así nuevas vistas
+
+ virtuales posibles de aprovechar de múltiples y tal vez insospechadas maneras
+
+
+Al ser un proyecto con chances de crecimiento interesante, es necesario acompañar todo con TDD, para aprovechar y consolidar también los conocimientos adquiridos a 
+
+este respecto que también yacen en esta página
+
+
+Debo reconocer y agradecer al libro de Juanjo Conti, Xolopes, el cual también me ha servido de inspiración para este proyecto
+
